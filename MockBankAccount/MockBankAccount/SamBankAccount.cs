@@ -7,16 +7,16 @@ namespace MockBankAccount
 		{
 		}
 
-        private double balance = 1000;
+        private double balance = 0;
 
         public void Deposit(double amount)
         {
-            balance = amount;
+            balance += amount;
         }
 
-        public void Withdraw(double amount)
+        public void Withdraw(double withdrawl)
         {
-            balance = amount;
+            balance -= withdrawl;
         }
 
         public string GetBalance()

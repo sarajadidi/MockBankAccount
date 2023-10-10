@@ -3,13 +3,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MockBankAccount/Program.cs">
     <Files>
       <File FileName="MockBankAccount/Program.cs" Line="48" Column="72" />
-      <File FileName="MockBankAccount/SamBankAccount.cs" Line="28" Column="1" NotebookId="1" />
+      <File FileName="MockBankAccount/SamBankAccount.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MockBankAccount" expanded="True">
-            <Node name="MockBankAccount">
+            <Node name="MockBankAccount" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
