@@ -1,0 +1,15 @@
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/bin/Debug/net7.0/MockBankAccount
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/bin/Debug/net7.0/MockBankAccount.deps.json
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/bin/Debug/net7.0/MockBankAccount.runtimeconfig.json
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/bin/Debug/net7.0/MockBankAccount.dll
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/bin/Debug/net7.0/MockBankAccount.pdb
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.csproj.AssemblyReference.cache
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.AssemblyInfoInputs.cache
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.AssemblyInfo.cs
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.csproj.CoreCompileInputs.cache
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.dll
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/refint/MockBankAccount.dll
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.pdb
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/MockBankAccount.genruntimeconfig.cache
+/Users/saralewis/Desktop/repos/Tester/MockBankAccount/MockBankAccount/obj/Debug/net7.0/ref/MockBankAccount.dll

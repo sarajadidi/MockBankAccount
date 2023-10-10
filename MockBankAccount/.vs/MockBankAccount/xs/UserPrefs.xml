@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{87F01FF9-6328-4A12-914A-D1363CCF7E9C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MockBankAccount/Program.cs">
+    <Files>
+      <File FileName="MockBankAccount/Program.cs" Line="48" Column="72" />
+      <File FileName="MockBankAccount/SamBankAccount.cs" Line="28" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MockBankAccount" expanded="True">
+            <Node name="MockBankAccount">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MockBankAccount PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
